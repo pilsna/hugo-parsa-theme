@@ -77,7 +77,6 @@ h6, .h6 {
 .btn {
   font-size: 15px;
   font-family: "Lato", sans-serif;
-  text-transform: capitalize;
   padding: 8px 20px;
   border-radius: 0;
   font-weight: 600;
